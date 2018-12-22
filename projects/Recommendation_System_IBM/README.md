@@ -1,21 +1,28 @@
-# RecommendationSystems
+# Recommendations_with_IBM
 
-## Project Motivation
-In this project I build a recommendation system for articles on the IBM Watson website.
-The data was made available by IBM Watson Studio, through Udacity
+## Required libraries
 
+- python 3.6.3
+- pandas 0.20.3
+- numpy 1.12.1
+- matplotlib 2.1.0
+- sklearn 0.19.1
 
-## Libraries used
-* Pandas 0.23.0
-* Numpy 1.14.3
-* Seaborn 0.8.1
-* Matplotlib 2.2.2
-* nltk 3.3
-* re 2.2.1
+## Motivation
 
-## Files in the repository
-Recommendations_with_IBM.ipynb: Jupyter notebook containing the code for the project
+For this project I will be looking at the interactions that users have with articles on the IBM Watson Studio platform. Below It can be seen an example of what the dashboard could look like displaying articles on the IBM Platform.
 
-## Results of analysis
-In the notebook I wrote functions for rank-based and content-based recommendations for the users
-in the dataset. Performed an SVD decomposition of the uter-item matrix obtained from the dataset.
+<img src="assets/Recommendations_with_IBM.png" width="80%" alt="Recommendations with IBM">
+
+The above dashboard is just showing the newest articles. It could imagine having a recommendation board available here that shows the articles that are most pertinent to a specific user.
+
+In order to determine which articles to show to each user, It will be performing a study of the data available on the [IBM Watson Studio platform](https://dataplatform.cloud.ibm.com/).
+
+## Files
+
+- Recommendations_with_IBM.ipynb: My answer for recommendations, It describe how to recommend articles to users
+- Recommendations_with_IBM.html: As the same of above notebook but format is html.
+
+## Acknowledgements
+
+I wish to thank [IBM Watson Studio platform](https://dataplatform.cloud.ibm.com/) for dataset, and thank [Udacity](https://www.udacity.com/) for advice and review.
