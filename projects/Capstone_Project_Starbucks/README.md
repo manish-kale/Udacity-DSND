@@ -2,7 +2,8 @@
  Capstone Project
 
 # Starbucks-Customer-Clusters
-Exploratory data analysis of Starbucks customers and grouping them into clusters.
+Exploratory data analysis of Starbucks customers and grouping them into clusters.  
+Link to GitHub : https://github.com/manish-kale/Udacity-DSND/tree/master/projects/Capstone_Project_Starbucks  
 
 # Project Overview
 The Starbucks project was my capstone project for the Udacity Data Scientist Nanodegree. This data was provided by Starbucks to simulate their customers and transactions to see if there are better approaches to sending customers specific promotional deals. 
