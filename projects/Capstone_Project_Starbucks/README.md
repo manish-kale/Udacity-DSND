@@ -21,7 +21,6 @@ I used exploratory analysis to see what type of customers existed in the Starbuc
 
 By doing this, Starbucks can allocate their promotional deals in a more effective manner. People who come back on a regular basis dont need buy one get one free deals, but should receive discount deals. People who might not be able to afford coming into Starbucks stores at a constant basis or don't go regularly for their own reasons should be given BOGO deals to reengage their interests in Starbucks and make them a more reliable customer.
 
-My results showed that Starbucks customers fall into 4 different categories based on mostly their income and the number of times they interact with Starbucks. There are 2 clusters that come consistantly to Starbucks that don't need to receive buy one get one free offers and should only receive discounted promotions. That way those customers still feel rewarded for being a customer, while Starbucks saves some money that they were giving away to them when they didn't have to. The other 2 clusters are groups of people who should be offered more buy one get one free promotions.  These customers might not be able to afford coming into Starbucks stores at a constant basis or don't go regularly for their own reasons should be given BOGO deals to reengage their interests in Starbucks and make them a more reliable customer.
 
 
 
